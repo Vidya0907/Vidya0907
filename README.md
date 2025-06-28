@@ -4,8 +4,8 @@
 
 <h1> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍evelopers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 👋 Hi, I’m Vidya Gowda, a 🎓 BSc IT graduate and passionate Full Stack Developer 💻 who loves to create modern, user-centered web applications. I build sleek frontends using HTML, CSS, JavaScript, React, Tailwind 🎨, and craft powerful backends with Node.js, Express, and MongoDB/MySQL ⚙️. I enjoy solving real-world problems through code 🧠 and aim to deliver fast, responsive, and accessible solutions that leave a lasting impact 🌟.
-<br><br>
-
+<br><br><br>
+  
 ## 👩‍💻 About Me
 - 🎓 BSc IT Graduate | Academic Topper  
 - 💻 Full Stack Developer passionate about building scalable apps with React, Tailwind, Node.js, and MongoDB/MySQL  
@@ -13,10 +13,7 @@
 - 🤝 Love collaborating on team projects, hackathons, and technical fests  
 - 🎤 Active speaker & organizer at college tech events like TechBit @ Tolani  
 - 😅 Fun Fact: I’ve whispered “don’t throw an error” to my code — and sometimes, it listens  
-<br><br>
-
-
-
+<br>
 
 ## 🛠️ Skills
 
@@ -51,12 +48,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-
-<br>
+<br><br>
 
 ## 🌐 Let's Connect
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
