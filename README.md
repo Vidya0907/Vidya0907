@@ -3,16 +3,16 @@
 </p>
 
 <h1> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍evelopers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-I’m Vidya Gowda ✨, a BSc IT graduate and passionate Frontend Developer proficient in web technologies like HTML, CSS, JS, React, and Tailwind, with a drive to build accessible, high-performance interfaces that make a real impact 🚀.
+👋 Hi, I’m Vidya Gowda, a 🎓 BSc IT graduate and passionate Full Stack Developer 💻 who loves to create modern, user-centered web applications. I build sleek frontends using HTML, CSS, JavaScript, React, Tailwind 🎨, and craft powerful backends with Node.js, Express, and MongoDB/MySQL ⚙️. I enjoy solving real-world problems through code 🧠 and aim to deliver fast, responsive, and accessible solutions that leave a lasting impact 🌟.
 <br><br>
 
 ## 👩‍💻 About Me
-- 🎓 BSc IT Graduate | Academic Topper
-- 🌐 Passionate about building Responsive, Accessible UIs with React and Tailwind
-- 🧠 Always learning – currently exploring Next.js, TypeScript, and Backend Basics
-- 💡 Love collaborating on Team Projects, Hackathons, and Technical Fests
-- 🗣️ Active Speaker & Organizer in college Tech Events like TechBit @ Tolani
-- 😅 Fun Fact: I’ve whispered “don’t throw an error” to my code and sometimes, it listens.
+- 🎓 BSc IT Graduate | Academic Topper  
+- 💻 Full Stack Developer passionate about building scalable apps with React, Tailwind, Node.js, and MongoDB/MySQL  
+- 🧠 Always learning – currently diving into Next.js, TypeScript, and API Design  
+- 🤝 Love collaborating on team projects, hackathons, and technical fests  
+- 🎤 Active speaker & organizer at college tech events like TechBit @ Tolani  
+- 😅 Fun Fact: I’ve whispered “don’t throw an error” to my code — and sometimes, it listens  
 <br><br>
 
 
